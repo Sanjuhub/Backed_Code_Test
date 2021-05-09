@@ -2,7 +2,7 @@ Click [Here](https://gentle-everglades-20021.herokuapp.com/) to open to the Host
 
     https://gentle-everglades-20021.herokuapp.com/
 
-# Antarctica Globa Code test:
+# Antarctica Global Code test:
 
 ## Problem statement:
 
